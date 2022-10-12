@@ -1,0 +1,45 @@
+.box{
+    background-color: aquamarine;
+    width: auto;
+    align-items: center;
+    padding-bottom: 15px;
+    margin: 3%;
+}
+.row{
+    margin: 56px color black;
+}
+img{
+height: 100%;
+padding-left: 200px; 
+padding-top: 100px;
+padding-bottom: 60px;
+margin: 14px 14px 14px 14px;color: black;
+border-radius: 50%;
+}
+header{
+ text-align: center;
+font-family: cursive;
+font-size: xx-large;
+
+}
+h4{
+    text-align: center;
+}
+.right-side{
+   
+    padding-left: 350px;
+    padding-top: 80px;
+    text-align: right;
+}
+.btn{
+    color: blue;border-radius: 5px;
+}
+#cancel{
+    padding-left: 109px;
+}
+#seat{
+    padding-right: 157px;
+}
+#Name2{
+    padding-left: 7px;
+}
